@@ -1,23 +1,23 @@
 Test the pr template
 
-# Wix Answers Pull Request Template
+## Wix Answers Pull Request Template
 
-## What does this PR do?
+### What does this PR do?
 
-## Asana ticket number?
+### Asana ticket number?
 
-## Type of change
+### Type of change
 
 - [ ] Bug fix
 - [ ] New feature
 
-## Security
+### Security
 - [ ] I'm validating input user input
 
-## Migrations
+### Migrations
 - [ ] Does your code has database migrations dependencies?
 
-## Checklist:
+### Checklist:
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have made corresponding changes to the documentation
